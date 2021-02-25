@@ -1,0 +1,5 @@
+The difference between primitive data type int and class integer:
+
+An integer is a wrapper class that wraps a primitive type int into an object. The purpose of the class Integer is to help convert int into an object and vice versa. Integer is more flexible in storing and manipulating nit data. 
+
+The purpose of an int is to store integer values into memory. Int provides less flexibility since it only allows binary values of integers.
